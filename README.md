@@ -1,1 +1,1 @@
-# Ungoogled-Chromium-Bookmark-Sync
+# Ungoogled Chromium Bookmark Sync
